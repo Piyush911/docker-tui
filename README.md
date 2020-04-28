@@ -9,7 +9,7 @@ not know much about the coding can easily deploy
 it .In TUI there are many options regarding docker
 which user use to have the detail information about
 the os ,docker network ,ip etc.
-Some of the options are:-
+### Some of the options are:-
 1) see running container
 2) to see images
 3) install docker images
