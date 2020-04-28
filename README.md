@@ -1,6 +1,6 @@
 # docker-tui
-##IIEC RISE DOCKER Project
-###DOCKER TUI
+IIEC RISE DOCKER Project
+DOCKER TUI
 Introduction
 The project is all about the DOCKER technology.In this project there is a TUI for docker i.e just press the key from keyboard and whole cmd run for the user .It is time saving ,user friendly and also great for one who not know much about the coding can easily deploy it .In TUI there are many options regarding docker which user use to have the detail information about the os ,docker network ,ip etc.
 
